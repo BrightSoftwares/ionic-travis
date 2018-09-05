@@ -5,7 +5,6 @@ branches:
 matrix:
   include:
   - os: linux
-    dist: xenial
     sudo: false
     language: android
     android:
